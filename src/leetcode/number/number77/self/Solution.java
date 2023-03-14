@@ -1,7 +1,6 @@
-package leetcode.number77.self;
+package leetcode.number.number77.self;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Collections;
 
 /**

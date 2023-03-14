@@ -1,4 +1,4 @@
-package leetcode.number21.recursion;
+package leetcode.number.number21.recursion;
 
 /**
  * @author yxl

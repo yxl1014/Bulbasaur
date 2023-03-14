@@ -1,6 +1,4 @@
-package leetcode.number17.queue;
-
-import com.sun.jmx.remote.internal.ArrayQueue;
+package leetcode.number.number17.queue;
 
 import java.util.*;
 

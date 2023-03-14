@@ -1,4 +1,4 @@
-package leetcode.number54;
+package leetcode.number.number54;
 
 import java.util.ArrayList;
 import java.util.List;

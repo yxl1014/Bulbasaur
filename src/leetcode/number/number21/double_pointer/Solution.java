@@ -1,4 +1,4 @@
-package leetcode.number21.double_pointer;
+package leetcode.number.number21.double_pointer;
 
 /**
  * @author yxl

@@ -1,4 +1,4 @@
-package leetcode.number77.dalao;
+package leetcode.number.number77.dalao;
 
 /**
  * @author yxl

@@ -5,6 +5,9 @@ package leetcode.jianzhioffer.II020;
  * @date 2023/3/14 上午10:15
  */
 public class Solution {
+    /**
+     * 方法一，中心拓展
+     */
     public int countSubstrings(String s) {
         int n = s.length();
         int sum = 0;
@@ -20,6 +23,9 @@ public class Solution {
         return sum;
     }
 
+    /**
+     * 方法二，动态规划
+     */
     public int countSubstrings_V1(String s) {
         int n = s.length();
         int sum = 0;

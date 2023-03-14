@@ -1,9 +1,7 @@
-package leetcode.number56;
+package leetcode.number.number56;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Comparator;
-import java.util.List;
 
 /**
  * @author yxl

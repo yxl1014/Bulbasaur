@@ -1,4 +1,4 @@
-package leetcode.number17.backtrack;
+package leetcode.number.number17.backtrack;
 
 import java.util.ArrayList;
 import java.util.HashMap;

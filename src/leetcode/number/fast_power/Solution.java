@@ -1,4 +1,4 @@
-package leetcode.number50.fast_power;
+package leetcode.number.fast_power;
 
 /**
  * @author yxl
